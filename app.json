@@ -18,31 +18,31 @@
     "website": "https://github.com/EvamariaTG/EvaMaria",
     "repository": "https://github.com/itsyogieu/EvaMaria",
     "env": {
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {5733665446:AAGBfB527AzaPsYZR80lczR8kLlulYcl4ZE
             "description": "Your bot token.",
             "required": true
         },
-        "API_ID": {
+        "API_ID": {1131474454
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {524db272a4d4dd91771b5a917c085f0e
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
-        "CHANNELS": {
+        "CHANNELS": {-1001587125586
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
             "required": false
         },
-        "ADMINS": {
+        "ADMINS": {1131474454
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
             "required": true
         },
-        "PICS": {
+        "PICS": {https://telegra.ph/file/d44cc7caa2a2e39ae0142.jpg
             "description": "Add some telegraph link of pictures .",
             "required": false
         },
-        "LOG_CHANNEL": {
+        "LOG_CHANNEL": {-1001636489470
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
             "required": true
         },
@@ -50,19 +50,19 @@
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
             "required": false
         },
-        "AUTH_CHANNEL": {
+        "AUTH_CHANNEL": {-1001587125586
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
             "required": false
         },
-        "DATABASE_URI": {
+        "DATABASE_URI": {mongodb+srv://PSYCHO:Psycholinksz@cluster0.ok2lwph.mongodb.net/?retryWrites=true&w=majority
             "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
             "required": true
         },
-        "DATABASE_NAME": {
+        "DATABASE_NAME": {Cluster7
             "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
             "required": false
         },
-        "COLLECTION_NAME": {
+        "COLLECTION_NAME": {Telegram_files
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
             "value": "Telegram_files",
             "required": false
