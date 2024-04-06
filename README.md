@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+<h1>ROLEX Filter Bot</h1>
+<h1 align="https://github-production-user-asset-6210df.s3.amazonaws.com/166034278/320203534-afde0c35-50c0-4f1e-846f-6ed91b8ad20d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240406T121452Z&X-Amz-Expires=300&X-Amz-Signature=f5248c29aae7b10f278982a96176e5e9d3cc5d267d90e0c6f60a420cfa657557&X-Amz-SignedHeaders=host&actor_id=166034278&key_id=0&repo_id=525019315"
+">
 </p>
-<h1 align="center">
-  <b>Eva Maria Bot</b>
+<h1 align="Rolex">
+  <b>Rolex Auto Filter Bot</b>
 </h1>
 
 
@@ -58,7 +59,7 @@ You can deploy this bot anywhere.
 <p>
 
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsyogieu/EvaMaria )
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsyogieu/EvaMaria )(https://app.koyeb.com)
 
 </p>
 </details>
